@@ -31,7 +31,7 @@ The analysis includes:
 * Seaborn
 * Scikit-learn
   
-👥 Group Members
+## 👥 Group Members
 * Uthpala De Silva
 * Niduli Himara
 * Dinelka Madhurangi
